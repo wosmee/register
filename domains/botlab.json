@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "wosmee",
+    "email": "vinogradovilya4060@gmail.com"
+  },
+  "records": {
+    "CNAME": "bots-constructor-web.pages.dev"
+  },
+  "proxied": true
+}
